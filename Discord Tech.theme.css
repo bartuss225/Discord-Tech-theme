@@ -1,0 +1,37 @@
+/**
+* @name Discord Tech
+* @version 2.0
+* @description green and tech style inspired by FrostedGlass (not working in light mode)
+* @author bartuss225
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+:root {
+--background-image: url('https://i.redd.it/397fljle7ml61.png');
+--background-image-blur: 0px;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: url('https://i.imgur.com/kYW2H5C.jpg');
+--popout-modal-blur: 100px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-image: url('https://i.redd.it/397fljle7ml61.png');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.8;
+--left-brightness: 0.5;
+--middle-brightness: 0.3;
+--right-brightness: 0.1;
+--popout-modal-brightness: 0.75;
+--gradient-primary: 0,255,0;
+--gradient-secondary: 0,0,0;
+--gradient-direction: 90deg;
+--tint-colour: 255,51,159;
+--tint-brightness: 0;
+--window-padding: 8px;
+--window-roundness: 40px;
+--scrollbar-colour: #ffffff0d;
+--link-colour: #00FFFFFF;
+--show-gift-gif-buttons: no-repeat;
+--font: 'Whitney';
+--update-notice-1: none;
+}
